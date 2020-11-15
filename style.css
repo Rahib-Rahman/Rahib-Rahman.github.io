@@ -98,8 +98,8 @@ body{
 /*Site main Start*/
 .site-banner .banner-area{
 	background: url(./assets/b4.jpg) no-repeat;
-	background-size: auto;
-	width: 100%;
+	background-size: cover;
+	width: 50%;
 	height: 100vh;
 	position: relative;
 }

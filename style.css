@@ -101,7 +101,7 @@ body{
 	background-size: cover;
 	width: 100%;
 	height: 100vh;
-	position: fixed;
+	position: relative;
 }
 
 .site-banner .banner-area .author{
